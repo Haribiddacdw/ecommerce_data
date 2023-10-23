@@ -1,9 +1,9 @@
 ﻿PID,Company Name,Order No,Item No,Customer No,Invoice No,Order Date,Invoice Date,Delivery Date,Rep ID,Sales,Cost,Margin,Quantity,Item Desc
-48440,Lagozon Edutech Pvt Ltd,100012,10644,10004245,300064,02/06/18,04/06/18,26/05/19,180,-204.3,-115.2,-89.1,-2,Bravo Canned Tomatos
+48440,Lagozon Edutech Pvt Ltd,100012,10644,10004245,300064,02/06/18,04/06/18,26/05/19,180,-204.3,-115.2,-89.1,2,Bravo Canned Tomatos
 48441,Lagozon Edutech Pvt Ltd,100012,10412,10004245,300064,02/06/18,04/06/18,26/05/19,180,-180.72,-75.52,-105.2,-2,Big Time Home Style French Fries
 48450,Lagozon Edutech Pvt Ltd,100012,10931,10004245,300064,02/06/18,04/06/18,26/05/19,180,-23.62,-13.48,-10.14,-2,BBB Best Grape Jam
 43289,Lagozon Edutech Pvt Ltd,100013,10403,10007457,300011,20/05/18,22/05/18,25/05/18,130,-395.28,-169.58,-225.7,-2,Big Time Frozen Cheese Pizza
-43426,Lagozon Edutech Pvt Ltd,100019,10383,10019194,300017,21/05/18,23/05/18,26/05/18,108,-978.86,-566.98,-411.88,-8,Moms Corned Beef
+43426,Lagozon Edutech Pvt Ltd,100019,10383,10019194,300017,21/05/18,23/05/18,26/05/18,108,-978.86,-566.98,-411.88,8,Moms Corned Beef
 43428,Lagozon Edutech Pvt Ltd,100022,10532,10020515,300020,21/05/18,23/05/18,26/05/18,143,-474.66,-334.4,-140.26,-40,Fast Sugar Cookies
 43429,Lagozon Edutech Pvt Ltd,100027,10009,10021936,300024,21/05/18,23/05/18,26/05/18,169,-206.82,-20.8,-186.02,-2,Washington Cranberry Juice
 43427,Lagozon Edutech Pvt Ltd,100028,10672,10023524,300025,21/05/18,23/05/18,26/05/18,103,-606.7,-253.4,-353.3,-4,Gorilla Havarti Cheese
