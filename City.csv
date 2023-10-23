@@ -1,4 +1,4 @@
-﻿City,City Code,Region,Latitude,Longitude,Desc
+﻿City,City_Id,Region,Latitude,Longitude,Description
 New York,1,USA,40.730599,-73.986581,"New York City, NY, US"
 Los Angeles,2,USA,34.053678,-118.242702,"Los Angeles, Los Angeles County, CA, US"
 Chicago,3,USA,41.875555,-87.624421,"Chicago, Cook County, IL, US"
