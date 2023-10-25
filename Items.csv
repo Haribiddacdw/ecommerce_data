@@ -1,4 +1,4 @@
-﻿Product_Id,Product_Group,Product_Line,Product_Sub_Group,Product_Type
+﻿Item Number,Product Group,Product Line,Product Sub Group,Product Type
 10001,Beverages,Drink,Juice,Pure Juice Beverages
 10002,Beverages,Drink,Flavored Drinks,Drinks
 10003,Beverages,Drink,Flavored Drinks,Drinks
@@ -8,13 +8,13 @@
 10007,Beverages,Drink,Soda,Carbonated Beverages
 10008,Beverages,Drink,Juice,Pure Juice Beverages
 10009,Beverages,Drink,Juice,Pure Juice Beverages
-10010,Beverages,Drink,Juice,Juice Beverages
+10010,Beverages,Drink,Juice,Pure Juice Beverages
 10011,Beverages,Drink,Flavored Drinks,Drinks
 10012,Breakfast Foods,Food,Cereal,Breakfast Foods
 10013,Breakfast Foods,Food,Cereal,Breakfast Foods
 10014,Breakfast Foods,Food,Cereal,Breakfast Foods
 10015,Breakfast Foods,Food,Cereal,Breakfast Foods
-10016,Canned Products,Food,Canned Vegetables,Vegetablas
+10016,Canned Products,Food,Canned Vegetables,Vegetables
 10017,Canned Products,Food,Canned Vegetables,Vegetables
 10018,Canned Products,Food,Canned Vegetables,Vegetables
 10019,Canned Products,Food,Soup,Canned Soup
