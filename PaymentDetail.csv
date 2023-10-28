@@ -1,11 +1,11 @@
-"PaymentMethodId,PaymentMethodName"
-"1,Credit Card"
-"2,Cash"
-"3,Bank Transfer"
-"4,Check"
-"5,PayPal"
-"6,Debit Card"
-"7,Mobile Payment"
-"8,Online Wallet"
-"9,Apple Pay"
-"10,Google Pay"
+﻿PaymentMethodId,PaymentMethodName
+1,Credit Card
+2,Cash
+3,Bank Transfer
+4,Check
+5,PayPal
+6,Debit Card
+7,Mobile Payment
+8,Online Wallet
+9,Apple Pay
+10,Google Pay
