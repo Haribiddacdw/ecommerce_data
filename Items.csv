@@ -4,7 +4,7 @@
 10003,Beverages,Drink,Flavored Drinks,Drinks,55
 10004,Beverages,Drink,Soda,Carbonated Beverages,40
 10005,Beverages,Drink,Soda,Carbonated Beverages,51
-10006,Beverages,Drink,Soda,Carbonated Beverages,87
+10006,Beverages,Drink,Soda,Carbonated Beverages,78
 10007,Beverages,Drink,Soda,Carbonated Beverages,43
 10008,Beverages,Drink,Juice,Pure Juice Beverages,142
 10009,Beverages,Drink,Juice,Pure Juice Beverages,123
@@ -813,6 +813,7 @@
 10999,Dairy,Food,Yogurt,Dairy,78
 11000,Dairy,Food,Yogurt,Dairy,84
 11001,Deli,Food,Hot Dogs,Meat,51
+11002,Deli,Food,Hot Dogs,Meat,12
 11008,Baked Goods,Food,Sliced Bread,Bread,63
 11021,Deli,Food,Bologna,Meat,43
 11052,Deli,Food,Hot Dogs,Meat,101
