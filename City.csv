@@ -61,9 +61,13 @@ Newcastle,59,UK,54.977092,-1.614206,"Newcastle upon Tyne, Tyne and Wear, England
 Leipzig,92,Germany,51.339183,12.381055,"Leipzig, Leipzig, Saxony, DE"
 Hannover,93,Germany,52.374478,9.738553,"Hanover, Region Hannover, Lower Saxony, DE"
 Tokyo,94,Japan,35.690041,139.510395,"Kanto, JP"
-Yokohama,95,Japan,35.455592,139.572196,
+Yokohama,95,Japan,35.455592,139.572196,"Japanese city south of Tokyo"
 Osaka,96,Japan,34.685296,135.514568,"Osaka, Senboku District, Kinki Region, JP"
 Nagoya,97,Japan,35.183333,136.9,"Nagoya, Chita, Chubu Region, JP"
 Sapporo,98,Japan,43.062048,141.35446,"Sapporo, Sorachi District, Hokkaido Region, JP"
 Kyoto,99,Japan,35.01858,135.763835,"Kyoto, Kuse District, Kyoto Prefecture, JP"
 Chiba,100,Japan,35.299946,140.198196,"Kanto, JP"
+PUNE,101,India,18.516726,73.856255,"Maharastra, IND"
+NOIDA,102,India,28.535517,77.391029,"India’s northern state of Uttar Pradesh"
+
+
